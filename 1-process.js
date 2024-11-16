@@ -1,3 +1,4 @@
+process.argv[2]='fun'
 const coding =process.argv[2];
 //passing the variable as the second parameter to process.argv
 
